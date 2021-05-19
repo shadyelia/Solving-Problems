@@ -1,0 +1,13 @@
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\work\Solving Problems\Stacks and Queues\Animal Shelter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
